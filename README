@@ -1,1 +1,12 @@
-All credits go to tux_mark_5 from #xmonad.
+Email included with the source:
+
+Follow the instructions to compile from:
+http://wiki.compiz.org/C%2B%2BCompiling
+replace the src direction from the git clone of core with the attached tar
+before compiling compiz
+
+things that use the mouse or workspace management generally dont work.
+everything else should work ok.
+you'll need to compile extra plugins etc.
+
+All credits go to tux_mark_5 from #xmonad
